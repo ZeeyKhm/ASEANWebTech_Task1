@@ -1,0 +1,202 @@
+Project Report: Water-Use Legal Marketing Website
+Links:
+
+Stitch Link
+Figma Link
+ChatGPT Link
+1. AI Tools Utilized
+ChatGPT (OpenAI): Used for structural planning, high-fidelity copywriting, and visual prompt engineering.
+
+Stitch (Google Labs): Used for rapid UI generation, component layout, and creating the initial design system (colours, typography, and spacing).
+
+2. Workflow and Order of Operations
+Phase 1: Structure & Copy (ChatGPT)
+I began by feeding the customer requirements into ChatGPT to generate a cohesive "Content Map." Since the client provided no text, I used the AI to draft professional, legal-focused headlines and service descriptions that resonate with the Russian water-use market.
+
+Prompt: I copied and pasted from the task given
+
+Phase 2: Visual Concept & UI Generation (Stitch)
+Once the content was ready, I moved to stitch to generate the actual UI. I used a "Prompt-to-UI" approach to ensure the layout followed modern landing page conventions (Hero -> Services -> Social Proof -> Conversion).
+
+Prompt: "Design a modern, professional marketing website for a legal company that specializes in helping businesses and individuals obtain water-use permits across Russia.
+
+Style:
+
+- Clean, corporate, trustworthy
+
+- Minimalist layout with strong typography
+
+- Blue, white, and neutral colour palette (water + legal theme)
+
+- Use modern UI/UX practices similar to top law firm websites
+
+- Desktop-first design (1440px width)
+
+
+
+Structure:
+
+
+
+1. Header
+
+- Logo (left)
+
+- Navigation: About, Services, Cases, FAQ, Contacts
+
+- Right side: address (Moscow, Russia), phone number, WhatsApp/Telegram icons
+
+
+
+2. Hero Section
+
+- Full-width background image (river, water infrastructure, or industrial water use)
+
+- Title: focus on water-use permits and legal services
+
+- Subtitle: emphasize nationwide coverage across Russia
+
+- CTA button: “Get Consultation”
+
+- Scroll-down indicator
+
+
+
+3. Services Section
+
+- Grid of 4–6 service cards
+
+- Each card includes icon, title, short description, and a “Contact via Messenger” button
+
+
+
+4. How We Work
+
+- Horizontal 5-step process:
+
+  1. Free consultation
+
+  2. Case analysis
+
+  3. Document preparation
+
+  4. Submission to authorities
+
+  5. Approval and registration
+
+
+
+5. About Company
+
+- Two-column layout
+
+- Left: company description
+
+- Right: CEO photo, name, role
+
+- Include key statistics (projects per year, approval rate, active clients)
+
+- Add a video preview block
+
+
+
+6. Projects / Cases
+
+- Scrollable horizontal cards
+
+- Each card includes:
+
+  - Image
+
+  - Location
+
+  - Type of work
+
+  - Type of document
+
+- Clicking a card opens an image gallery
+
+
+
+7. Testimonials
+
+- Auto-scrolling carousel
+
+- Client reviews with names, companies, and 5-star ratings
+
+- Pause animation on hover
+
+
+
+8. Rent Calculator Section
+
+- Input fields:
+
+  - Length (meters)
+
+  - Width (meters)
+
+  - Term (years)
+
+- “Calculate” button
+
+- Show success and error states
+
+- Include privacy policy and consent checkbox
+
+
+
+9. FAQ Section
+
+- Accordion-style expandable questions
+
+- Below it, a consultation form:
+
+  - Name
+
+  - Phone
+
+  - Email
+
+  - Submit button
+
+
+
+10. Footer
+
+- Logo
+
+- Navigation links
+
+- Address and phone
+
+- Social media icons
+
+
+
+Other requirements:
+
+- Use realistic placeholder content
+
+- Include image placeholders where needed
+
+- Keep spacing consistent and clean
+
+- Use modern UI components and cards"
+
+Phase 3: Refinement & Asset Integration (Stitch)
+I used stitch’s internal tools to swap out placeholder images for industry-relevant visuals (dams, riverbanks, and professional legal consultations) and refined the "Client Feedback" carousel to ensure high contrast for readability.
+
+3. Key Features Implemented
+Dynamic Hero Section: Integrated a clear Value Proposition with a high-resolution background representing the industry.
+
+Interactive Calculator: Designed a visually distinct dark-mode block for the "Riverbank Lease Calculator" to drive user engagement.
+
+Trust Signals: Included a "Protocol of Engagement" section and a "Case Studies" grid to satisfy the requirement for showing past work.
+
+Conversion Optimization: Strategically placed "Request Legal Consultation" forms in the footer and FAQ sections.
+
+Figma Link
+Figma Link
+
+Figma Conversion: After generating the design in stitch, I used the "Copy to Figma" function and adjusted the Hero section constraints to ensure the background image scaled correctly to a 1440px desktop width.
