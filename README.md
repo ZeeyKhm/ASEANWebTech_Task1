@@ -23,3 +23,19 @@ The client also clarified that they don't have any pre-written text for the page
 
 REQUIREMENTS FOR THE RESULT
 The student must attach a link to Figma with the generated design and provide a short report on the work done: which AI were used, in what order, and what prompts.
+
+It's recommended to use AI in order to achieve efficient result.
+
+1. Google Stitch (https://stitch.withgoogle.com) - a great tool for prototyping design for websites
+
+2. Cursor (https://cursor.com) - a code editor with AI agents
+
+3. Google Whisk (https://labs.google/fx/tools/whisk) - an image generator
+
+4. skillsmp (https://skillsmp.com) - a list of agent skills
+
+5. perplexity (https://perplexity.ai) - an AI-powered search engine
+
+6. ChatGPT (https://chatgpt.com) - an AI chatbot to create content
+
+Get started with Google stitch - https://youtu.be/2R5IkequgHc?si=B8L35H7QgtG9El0O
